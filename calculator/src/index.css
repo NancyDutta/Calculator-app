@@ -1,0 +1,21 @@
+*{
+  background-color: lightblue;
+  margin: 0;
+  padding: 0;
+
+}
+
+.greeting{
+  display: flex;
+  font-size: 1.8em;
+  justify-content: center;
+  align-items: center;
+  margin: 200px;
+  
+  background-color: yellowgreen;
+  width: 500px;
+  height:200px;
+}
+span{
+  background-color: yellowgreen;
+}
